@@ -1,0 +1,9 @@
+{
+  "name": "erc20-with-decimals",
+  "params": {
+    "symbol": "GOV",
+    "address": "0x...",
+    "decimals": 18
+  },
+  "network": "1"
+}
